@@ -1,7 +1,7 @@
 # Apigee Split Token Publisher Demo Plugin
 
-[![Quality](https://curity.io/assets/images/badges/apigee-split-token-publisher-quality.svg)](https://curity.io/resources/code-examples/status/)
-[![Availability](https://curity.io/assets/images/badges/apigee-split-token-publisher-availability.svg)](https://curity.io/resources/code-examples/status/)
+[![Quality](https://img.shields.io/badge/quality-demo-red)](https://curity.io/resources/code-examples/status/)
+[![Availability](https://img.shields.io/badge/availability-binary-blue)](https://curity.io/resources/code-examples/status/)
 
 This is an example event listener SDK Plugin for the Curity Identity Server. The plugin registers an event listener 
 listening for issued access token events, and forwards them to Apigee Edge cache, using the Split Token approach.
